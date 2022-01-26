@@ -1,1 +1,1 @@
-# Visit -> https://www.abacus2.netlify.app
+# abacus2.netlify.app
